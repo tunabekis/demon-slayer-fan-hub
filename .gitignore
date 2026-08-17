@@ -1,0 +1,38 @@
+# XAMPP / local server installs
+xampp/
+htdocs/
+apache/
+mysql/
+phpMyAdmin/
+FileZillaFTP/
+MercuryMail/
+tomcat/
+webalizer/
+sendmail/
+passwords.txt
+
+# Executables / server scripts
+*.exe
+*.bat
+*.dll
+*.dat
+
+# PHP
+vendor/
+composer.lock
+*.log
+.env
+.env.*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code local settings
+.claude/settings.local.json
